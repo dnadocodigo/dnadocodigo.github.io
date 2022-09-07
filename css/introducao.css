@@ -1,5 +1,5 @@
 .introducao-img img{
-display: none;
+object-fit: cover;
 }
 .introducao {
   max-width: 1200px;
