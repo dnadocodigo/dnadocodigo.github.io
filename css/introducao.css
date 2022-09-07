@@ -1,6 +1,5 @@
-.introducao img{
-
- background-color: blue;
+.introducao-img img{
+display: none;
 }
 .introducao {
   max-width: 1200px;
