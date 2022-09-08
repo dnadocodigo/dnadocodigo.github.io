@@ -3,6 +3,10 @@ body {
   color: #141414;
   margin: 0;
 }
+a{
+  text-decoration: none;
+  color: inherit;
+}
 h1,
 h2,
 h3,

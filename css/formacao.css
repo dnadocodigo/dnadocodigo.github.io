@@ -109,6 +109,9 @@
   display: flex;
   justify-content: space-between;
 }
+.curso li a:hover{
+  color: #67DD0A;
+}
 .curso h3::before {
   background: url("../img/cursos.svg") no-repeat center center;
 }
