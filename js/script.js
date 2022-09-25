@@ -1,3 +1,3 @@
-import softScrollInit from "../js/modules/softScroll.js";
+import scrollInit from "../js/modules/scroll.js";
 
-softScrollInit();
+scrollInit();
