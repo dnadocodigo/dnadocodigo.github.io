@@ -6,3 +6,5 @@ Vs code
 Veja este projeto online
 clique https://josepaulogaldino-portifolio.netlify.app/
 ou https://dnadocodigo.github.io/
+# portfolio.git.io
+# portfolio.git.io
